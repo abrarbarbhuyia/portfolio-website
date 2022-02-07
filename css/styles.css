@@ -41,7 +41,8 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
+  /* Change colour of everything here. */
+  --bs-primary-rgb: 189, 93, 56; 
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -11444,7 +11445,7 @@ body { background: #E9E5E2;margin:2%; }
     height: auto;
     margin: 40px auto;
     background-color: #fff;
-    //border: 1px solid #cdcdcd;
+    border: 1px solid #cdcdcd;
     padding: 10px;
     border-radius:20px;
     -o-border-radius:20px;
@@ -11466,7 +11467,7 @@ body { background: #E9E5E2;margin:2%; }
     margin: 20px auto;
 }
 #Skill-HTML {
-    width: 100%;
+    width: 80%;
     animation: Animate-HTML 4s;
     -webkit-animation: Animate-HTML 4s;
     -moz-animation: Animate-HTML 4s;
@@ -11480,13 +11481,13 @@ body { background: #E9E5E2;margin:2%; }
     width: 10px;
 }
 to {
-    width: 100%}
+    width: 80%}
 }@-webkit-keyframes Animate-HTML {
     from {
     width: 10px;
 }
 to {
-    width: 100%}
+    width: 80%}
 }@-moz-keyframes Animate-HTML {
     from {
     width: 10px;
@@ -11538,7 +11539,7 @@ to {
     -webkit-animation: Animate-jQuery 5s;
     -moz-animation: Animate-jQuery 5s;
     -o-animation: Animate-jQuery 5s;
-    width: 40%;
+    width: 90%;
     height: 50px;
     position: absolute;
     background-color: #99856d;
@@ -11548,13 +11549,13 @@ to {
     width: 10px;
 }
 to {
-    width: 40%}
+    width: 90%}
 }@-webkit-keyframes Animate-jQuery {
     from {
     width: 10px;
 }
 to {
-    width: 40%}
+    width: 90%}
 }@-moz-keyframes Animate-jQuery {
     from {
     width: 10px;
@@ -11572,7 +11573,7 @@ to {
     -webkit-animation: Animate-JS 4s;
     -moz-animation: Animate-JS 4s;
     -o-animation: Animate-JS 4s;
-    width: 65%;
+    width: 95%;
     height: 50px;
     position: absolute;
     background-color: #c44e45;
@@ -11582,13 +11583,13 @@ to {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 95%}
 }@-webkit-keyframes Animate-JS {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 95%}
 }@-moz-keyframes Animate-JS {
     from {
     width: 10px;
@@ -11674,7 +11675,7 @@ to {
     -webkit-animation: Animate-JAVA 4s;
     -moz-animation: Animate-JAVA 4s;
     -o-animation: Animate-JAVA 4s;
-    width: 25%;
+    width: 75%;
     height: 50px;
     position: absolute;
     background-color: #8e930c;
@@ -11684,19 +11685,19 @@ to {
     width: 10px;
 }
 to {
-    width: 25%}
+    width: 75%}
 }@-webkit-keyframes Animate-JAVA {
     from {
     width: 10px;
 }
 to {
-    width: 25%}
+    width: 80%}
 }@-moz-keyframes Animate-JAVA {
     from {
     width: 10px;
 }
 to {
-    width: 25%}
+    width: 75%}
 }@-o-keyframes Animate-JAVA {
     from {
     width: 10px;
@@ -11708,7 +11709,7 @@ to {
     -webkit-animation: Animate-PHP 4s;
     -moz-animation: Animate-PHP 4s;
     -o-animation: Animate-PHP 4s;
-    width: 50%;
+    width: 65%;
     height: 50px;
     position: absolute;
     background-color: #5A69A6;
@@ -11718,13 +11719,13 @@ to {
     width: 10px;
 }
 to {
-    width: 50%}
+    width: 65%}
 }@-webkit-keyframes Animate-PHP {
     from {
     width: 10px;
 }
 to {
-    width: 50%}
+    width: 65%}
 }@-moz-keyframes Animate-PHP {
     from {
     width: 10px;
