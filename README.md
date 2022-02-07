@@ -1,6 +1,5 @@
 # porfolio-website
-
-## The First Iteration of my personal Website
+The first iteration of my Personal Portfolio.
 
 ## Created using Start Boostrap's free template
-### https://startbootstrap.com/theme/resume
+ https://startbootstrap.com/theme/resume
